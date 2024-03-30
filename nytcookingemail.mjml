@@ -1,0 +1,542 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text padding="0px" />
+      <mj-image padding="0px" />
+      <mj-section padding="0px" background-color="#ffffff" />
+      <mj-divider
+        padding-top="20px"
+        padding-left="0px"
+        padding-right="0px"
+        padding-bottom="20px"
+        border-color="#d3d3d3"
+        border-width="1px"
+        border-style="solid"
+      />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#f1f1f1">
+    <!-- Logo -->
+    <mj-section>
+      <mj-column>
+        <mj-divider />
+        <mj-image
+          width="300px"
+          padding-top="20px"
+          href="#"
+          src="newsimg/logo.png"
+          alt="The New York Times Cooking Logo"
+        />
+        <mj-text
+          font-size="12px"
+          padding-top="20px"
+          padding-bottom="15px"
+          align="center"
+          >December 30, 2023</mj-text
+        >
+        <mj-divider />
+      </mj-column>
+    </mj-section>
+
+    <!-- Main Recipe -->
+    <mj-section>
+      <mj-column>
+        <mj-image href="#" src="newsimg/shrimp.jpg" alt="" />
+        <mj-text align="right" padding-top="5px" font-size="10px">
+          Christoper Testani for the New York Times. Food Stylist: Simon
+          Andrews.
+        </mj-text>
+        <mj-text padding-top="20px" padding-bottom="20px" font-size="25px">
+          A no-fuss shrimp pasta that's both festive and cozy
+        </mj-text>
+        <mj-text font-size="12px" font-weight="bold" padding-bottom="20px">
+          By The New York Times Cooking
+        </mj-text>
+        <mj-text font-size="16px" padding-bottom="20px" line-height="25px">
+          It's Saturday morning and 2024 is two sleeps away. There are two ways
+          to approach this last weekend of the year: party hearty, or quiet
+          cozy. Either plan is excellent, and today's newsletter is dedicated to
+          meals that are perfectly suited for whichever type of New Year's
+          weekend you like.
+        </mj-text>
+        <mj-text font-size="16px" padding-bottom="20px" line-height="25px">
+          First up is Lidey Heuck's
+          <a href="#" style="color: #df5723">shrimp pasta</a>, essentially the
+          shrimp version of vongole rosso. Loads of garlic and olive oil -- and
+          a healthy splash of white wine -- make even the tightest cherry
+          tomatoes feel lush, and the lemon zest and chile flakes added at the
+          end keep things bright and perky. With a
+          <a href="#" style="color: #df5723">bitter greens salad</a> and the
+          rest of the bottle of wine, it's an excellent dinner for any night on
+          the calendar.
+        </mj-text>
+        <mj-divider />
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text
+          color="#d43823"
+          font-weight="bold"
+          font-size="14px"
+          padding-top="20px"
+          padding-bottom="20px"
+        >
+          Featured Recipe
+        </mj-text>
+        <mj-text font-weight="bold" font-size="20px" padding-bottom="20px">
+          Shrimp Pasta
+        </mj-text>
+        <mj-text font-size="14px" padding-bottom="20px">
+          <a href="#" style="color: #df5723">View Recipe &rarr;</a>
+        </mj-text>
+        <mj-divider />
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="16px" padding-bottom="20px" line-height="25px">
+          On the soupier side of things, Steven Pursley's recipe for
+          <a href="#" style="color: #df5723">Okinawan soba</a>, which Khushbu
+          Shah adapted, doesn't call for buckwheat noodles but instead the
+          ramenlike wheat noodles popular in Okinawa. For Mr. Pursley, the chef
+          and owner of
+          <a href="#" style="color: #df5723">Menya Rui in St. Louis</a>, the
+          dish is a <a href="#" style="color: #df5723">New Year staple</a>: a
+          gentle dashi and pork-based broth swimming with springy noodles and
+          slices of pleasantly squeky fish cake.
+        </mj-text>
+        <mj-text font-size="16px" padding-bottom="20px" line-height="25px">
+          Now for some skillet meals that feel equal parts fancy and cozy.
+          Florence Fabricant's five-star
+          <a href="#" style="color: #df5723"
+            >chicken tagine with olives and preserved lemons</a
+          >
+          is richly spiced, complex in flavor and quite beautiful and comes
+          together in about an hour. Hetty Lui McKinnon -- the vegetable genius
+          behind "Tenderheart," one of
+          <a href="#" style="color: #df5723">our favorite cookbooks of 2023</a>
+          -- created a
+          <a href="#" style="color: #df5723">mushroom stroganoff</a> that
+          captures all of the herby, winy and deeply savory flavors of the beef
+          version.
+        </mj-text>
+
+        <mj-text font-size="16px" padding-bottom="20px" line-height="25px">
+          And then there's
+          <a href="#" style="color: #df5723">Marry Me Chicken</a>, which nestles
+          chicken breasts or cutlets in a creamy sauce with sun-dried tomatoes
+          and Parmesan for added umami oomph. (If all of those holiday movies
+          are any indication, the end of the year is a big time for proposals.)
+        </mj-text>
+
+        <mj-text font-size="16px" padding-bottom="20px" line-height="25px">
+          Whatever your end-of-the-year vibes, you deserve something sweet. More
+          specifically, you deserve Genevieve Ko's
+          <a href="#" style="color: #df5723">Chocolate mousse</a>, which is
+          somehow both airy and dense, light and rich, silky and fudgy. Because
+          the mousse develops an even deeper over time you can make it up to
+          five days ahead and serve it straight from the fridge, Genevieve
+          notes. A dish that gets only better with age? That's an excellent way
+          to greet the new year.
+        </mj-text>
+        <mj-divider />
+      </mj-column>
+    </mj-section>
+
+    <!-- Recipe cards -->
+    <mj-section>
+      <mj-column width="250px">
+        <mj-image src="newsimg/soba.jpg" alt="Okinawan Soba Photo" />
+        <mj-text
+          font-size="10px"
+          align="right"
+          padding-top="2px"
+          line-height="15px"
+          >Kerri Brewer for The New York Times. Food Stylist: Barret
+          Wasburne.</mj-text
+        >
+      </mj-column>
+      <mj-column width="300px">
+        <mj-text font-size="20px" padding-left="20px" padding-bottom="10px">
+          Okinawan Soba
+        </mj-text>
+        <mj-text
+          font-size="12px"
+          padding-top="10px"
+          padding-left="20px"
+          font-weight="bold"
+        >
+          Recipe from Shallots New York</mj-text
+        >
+        <mj-text
+          font-size="12px"
+          padding-top="5px"
+          padding-left="20px"
+          font-weight="bold"
+        >
+          Adapted by Khushbu Shah</mj-text
+        ><mj-text font-size="12px" padding-top="5px" padding-left="20px">
+          3 hours 35 minutes</mj-text
+        >
+        <mj-text font-size="12px" padding-top="5px" padding-left="20px">
+          Makes 8 servings</mj-text
+        >
+        <mj-text font-size="12px" padding-top="10px" padding-left="20px">
+          <a href="#" style="color: #df5723">View recipe</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-divider />
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="250px">
+        <mj-image src="newsimg/chicken.jpg" alt="Chicken Tagine Photo" />
+        <mj-text
+          font-size="10px"
+          align="right"
+          padding-top="2px"
+          line-height="15px"
+          >Michael Kraus for The New York Times.</mj-text
+        >
+      </mj-column>
+      <mj-column width="300px">
+        <mj-text font-size="20px" padding-left="20px" padding-bottom="10px"
+          >Chicken Tagine With Olives and Preserved Lemons</mj-text
+        >
+        <mj-text
+          font-size="12px"
+          padding-top="10px"
+          padding-left="20px"
+          font-weight="bold"
+        >
+          Recipe from Shallots New York</mj-text
+        >
+        <mj-text
+          font-size="12px"
+          padding-top="5px"
+          padding-left="20px"
+          font-weight="bold"
+        >
+          Adapted by Florence Fabricant</mj-text
+        ><mj-text font-size="12px" padding-top="5px" padding-left="20px">
+          1 hour, plus marinating</mj-text
+        >
+        <mj-text font-size="12px" padding-top="5px" padding-left="20px">
+          Makes 4 servings</mj-text
+        >
+        <mj-text font-size="12px" padding-top="10px" padding-left="20px">
+          <a href="#" style="color: #df5723">View recipe</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-divider />
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="250px">
+        <mj-image src="newsimg/mushroom.jpg" alt="Mushroom Stroganoff Photo" />
+        <mj-text
+          font-size="10px"
+          align="right"
+          padding-top="2px"
+          line-height="15px"
+          >David Malosh for The New York Times. Food Stylist: Simon
+          Andrews.</mj-text
+        >
+      </mj-column>
+      <mj-column width="300px">
+        <mj-text font-size="20px" padding-left="20px" padding-bottom="10px">
+          Mushroom Stroganoff
+        </mj-text>
+
+        <mj-text
+          font-size="12px"
+          padding-top="5px"
+          padding-left="20px"
+          font-weight="bold"
+        >
+          By Hetty Lui McKinnon</mj-text
+        ><mj-text font-size="12px" padding-top="5px" padding-left="20px">
+          25 minutes</mj-text
+        >
+        <mj-text font-size="12px" padding-top="5px" padding-left="20px">
+          Makes 4 servings</mj-text
+        >
+        <mj-text font-size="12px" padding-top="10px" padding-left="20px">
+          <a href="#" style="color: #df5723">View recipe</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-divider />
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="250px">
+        <mj-image src="newsimg/marryme.jpg" alt="Marry Me Chicken Photo" />
+        <mj-text
+          font-size="10px"
+          align="right"
+          padding-top="2px"
+          line-height="15px"
+          >David Malosh for The New York Times. Food Stylist: Simon
+          Andrews.</mj-text
+        >
+      </mj-column>
+      <mj-column width="300px">
+        <mj-text font-size="20px" padding-left="20px" padding-bottom="10px">
+          Marry Me Chicken
+        </mj-text>
+        <mj-text
+          font-size="12px"
+          padding-top="5px"
+          padding-left="20px"
+          font-weight="bold"
+        >
+          By Naz Deravian</mj-text
+        ><mj-text font-size="12px" padding-top="5px" padding-left="20px">
+          1 hour</mj-text
+        >
+        <mj-text font-size="12px" padding-top="5px" padding-left="20px">
+          Makes 4 servings</mj-text
+        >
+        <mj-text font-size="12px" padding-top="10px" padding-left="20px">
+          <a href="#" style="color: #df5723">View recipe</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-divider />
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="250px">
+        <mj-image src="newsimg/choc.jpg" alt="Chocolate Mousse Photo" />
+        <mj-text
+          font-size="10px"
+          align="right"
+          padding-top="2px"
+          line-height="15px"
+          >Chris Simpson for The New York Times. Food Stylist: Frances
+          Boswell.</mj-text
+        >
+      </mj-column>
+      <mj-column width="300px">
+        <mj-text font-size="20px" padding-left="20px" padding-bottom="10px">
+          Chocolate Mousse
+        </mj-text>
+        <mj-text
+          font-size="12px"
+          padding-top="5px"
+          padding-left="20px"
+          font-weight="bold"
+        >
+          By Genevieve Ko</mj-text
+        ><mj-text font-size="12px" padding-top="5px" padding-left="20px">
+          20 minutes, plus overnight chilling</mj-text
+        >
+        <mj-text font-size="12px" padding-top="5px" padding-left="20px">
+          Makes 8 to 10 servings</mj-text
+        >
+        <mj-text font-size="12px" padding-top="10px" padding-left="20px">
+          <a href="#" style="color: #df5723">View recipe</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-divider />
+      </mj-column>
+    </mj-section>
+
+    <!-- Sign up section -->
+    <mj-section>
+      <mj-column width="100px" padding-right="20px">
+        <mj-image
+          src="newsimg/fivelogo.jpg"
+          alt="Five Weeknight Dishes newsletter sign up logo"
+        />
+      </mj-column>
+      <mj-column width="400px">
+        <mj-text font-size="16px" font-weight="bold" padding-bottom="5px">
+          Sign up for the Five Weeknight Dishes newsletter
+        </mj-text>
+        <mj-text font-size="14px" font-style="italic">
+          Fresh dinner ideas for busy people who want something great to eat,
+          with NYT Cooking recipes sent to you weekly.
+        </mj-text>
+        <mj-text font-size="14px" font-style="italic" padding-top="5px">
+          <a href="#" style="color: #df5723">Get it in your inbox</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="40px">
+      <mj-column width="100px" padding-right="20px">
+        <mj-image
+          src="newsimg/veggielogo.jpg"
+          alt="Veggie newsletter sign up logo"
+        />
+      </mj-column>
+      <mj-column width="400px">
+        <mj-text font-size="16px" font-weight="bold" padding-bottom="5px">
+          Sign up for The Veggie newsletter
+        </mj-text>
+        <mj-text font-size="14px" font-style="italic">
+          Tanya Sichynsky shares the most delicious vegetarian recipes for
+          weeknight cooking, packed lunches and dinner parties.
+        </mj-text>
+        <mj-text font-size="14px" font-style="italic" padding-top="5px">
+          <a href="#" style="color: #df5723">Get it in your inbox</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-divider />
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer -->
+    <mj-section background-color="#000000">
+      <mj-column padding-top="40px">
+        <mj-text
+          color="#ffffff"
+          padding-bottom="20px"
+          padding-left="10px"
+          padding-right="10px"
+        >
+          Need Help? Review our
+          <a href="#" style="color: #df5723">newsletter help page</a> or
+          <a href="#" style="color: #df5723">contact us</a> for assistance.
+        </mj-text>
+
+        <mj-text
+          color="#ffffff"
+          padding-bottom="20px"
+          padding-left="10px"
+          padding-right="10px"
+        >
+          You received this email because you signed up for Cooking from The New
+          York Times.
+        </mj-text>
+
+        <mj-text
+          color="#ffffff"
+          padding-bottom="20px"
+          line-height="18px"
+          padding-left="10px"
+          padding-right="10px"
+        >
+          To stop receiving Cooking,
+          <a href="#" style="color: #df5723">unsubscribe</a>. To opt out of
+          other promotional emails from The Times, including those regarding The
+          Athletic,
+          <a href="#" style="color: #df5723">manage your email settings</a>. To
+          opt out of updates and offers sent from The Athletic,
+          <a href="#" style="color: #df5723">submit a request</a>.
+        </mj-text>
+
+        <mj-divider border-color="#ffffff" border-width="0.5px" />
+
+        <mj-text
+          color="#ffffff"
+          padding-top="20px"
+          padding-bottom="20px"
+          padding-left="10px"
+          padding-right="10px"
+        >
+          <a href="#" style="color: #df5723">Subscribe to NYT Cooking</a>
+        </mj-text>
+
+        <mj-divider border-color="#ffffff" border-width="0.5px" />
+
+        <mj-text
+          color="#df5723"
+          padding-top="20px"
+          padding-bottom="20px"
+          padding-left="10px"
+          padding-right="10px"
+        >
+          <a href="#" style="color: #df5723">Change Your Email</a> |
+          <a href="#" style="color: #df5723">Privacy Policy</a> |
+          <a href="#" style="color: #df5723">Contact Us</a> |
+          <a href="#" style="color: #df5723">California Notices</a>
+        </mj-text>
+
+        <mj-divider border-color="#ffffff" border-width="0.5px" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#000000">
+      <mj-column>
+        <mj-social mode="horizontal" align="center" icon-size="30px">
+          <mj-social-element
+            name="facebook"
+            href="#"
+            background-color="#df5723"
+            color="#ffffff"
+            border-radius="25px"
+          >
+          </mj-social-element>
+          <mj-social-element
+            name="twitter"
+            href="#"
+            background-color="#df5723"
+            color="#ffffff"
+            border-radius="25px"
+          >
+          </mj-social-element>
+          <mj-social-element
+            name="instagram"
+            href="#"
+            background-color="#df5723"
+            color="#ffffff"
+            border-radius="25px"
+          >
+          </mj-social-element>
+          <mj-social-element
+            name="pinterest"
+            href="#"
+            background-color="#df5723"
+            color="#ffffff"
+            border-radius="25px"
+          >
+          </mj-social-element>
+        </mj-social>
+
+        <mj-text
+          color="#ffffff"
+          padding-bottom="20px"
+          line-height="18px"
+          padding-left="10px"
+          padding-right="10px"
+          align="center"
+        >
+          The New York Times Company. 620 Eight Avenue New York, NY 10018
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
