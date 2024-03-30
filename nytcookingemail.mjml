@@ -25,7 +25,7 @@
           width="300px"
           padding-top="20px"
           href="#"
-          src="newsimg/logo.png"
+          src="/images/logo.png"
           alt="The New York Times Cooking Logo"
         />
         <mj-text
@@ -150,7 +150,7 @@
     <!-- Recipe cards -->
     <mj-section>
       <mj-column width="250px">
-        <mj-image src="newsimg/soba.jpg" alt="Okinawan Soba Photo" />
+        <mj-image src="/images/soba.jpg" alt="Okinawan Soba Photo" />
         <mj-text
           font-size="10px"
           align="right"
@@ -199,7 +199,7 @@
 
     <mj-section>
       <mj-column width="250px">
-        <mj-image src="newsimg/chicken.jpg" alt="Chicken Tagine Photo" />
+        <mj-image src="/images/chicken.jpg" alt="Chicken Tagine Photo" />
         <mj-text
           font-size="10px"
           align="right"
@@ -247,7 +247,7 @@
 
     <mj-section>
       <mj-column width="250px">
-        <mj-image src="newsimg/mushroom.jpg" alt="Mushroom Stroganoff Photo" />
+        <mj-image src="/images/mushroom.jpg" alt="Mushroom Stroganoff Photo" />
         <mj-text
           font-size="10px"
           align="right"
@@ -289,7 +289,7 @@
 
     <mj-section>
       <mj-column width="250px">
-        <mj-image src="newsimg/marryme.jpg" alt="Marry Me Chicken Photo" />
+        <mj-image src="/images/marryme.jpg" alt="Marry Me Chicken Photo" />
         <mj-text
           font-size="10px"
           align="right"
@@ -330,7 +330,7 @@
 
     <mj-section>
       <mj-column width="250px">
-        <mj-image src="newsimg/choc.jpg" alt="Chocolate Mousse Photo" />
+        <mj-image src="/images/choc.jpg" alt="Chocolate Mousse Photo" />
         <mj-text
           font-size="10px"
           align="right"
@@ -373,7 +373,7 @@
     <mj-section>
       <mj-column width="100px" padding-right="20px">
         <mj-image
-          src="newsimg/fivelogo.jpg"
+          src="/images/fivelogo.jpg"
           alt="Five Weeknight Dishes newsletter sign up logo"
         />
       </mj-column>
@@ -394,7 +394,7 @@
     <mj-section padding-top="40px">
       <mj-column width="100px" padding-right="20px">
         <mj-image
-          src="newsimg/veggielogo.jpg"
+          src="/images/veggielogo.jpg"
           alt="Veggie newsletter sign up logo"
         />
       </mj-column>
