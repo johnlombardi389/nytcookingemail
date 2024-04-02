@@ -18,7 +18,7 @@
 
   <mj-body background-color="#f1f1f1">
     <!-- Logo -->
-    <mj-section>
+    <mj-section padding-left="20px" padding-right="20px">
       <mj-column>
         <mj-divider />
         <mj-image
@@ -40,7 +40,7 @@
     </mj-section>
 
     <!-- Main Recipe -->
-    <mj-section>
+    <mj-section padding-left="20px" padding-right="20px">
       <mj-column>
         <mj-image href="#" src="newsimg/shrimp.jpg" alt="" />
         <mj-text align="right" padding-top="5px" font-size="10px">
@@ -75,7 +75,7 @@
       </mj-column>
     </mj-section>
 
-    <mj-section>
+    <mj-section padding-left="20px" padding-right="20px">
       <mj-column>
         <mj-text
           color="#d43823"
@@ -96,7 +96,7 @@
       </mj-column>
     </mj-section>
 
-    <mj-section>
+    <mj-section padding-left="20px" padding-right="20px">
       <mj-column>
         <mj-text font-size="16px" padding-bottom="20px" line-height="25px">
           On the soupier side of things, Steven Pursley's recipe for
@@ -148,7 +148,7 @@
     </mj-section>
 
     <!-- Recipe cards -->
-    <mj-section>
+    <mj-section padding-left="20px" padding-right="20px">
       <mj-column width="250px">
         <mj-image src="images/soba.jpg" alt="Okinawan Soba Photo" />
         <mj-text
@@ -191,13 +191,13 @@
       </mj-column>
     </mj-section>
 
-    <mj-section>
+    <mj-section padding-left="20px" padding-right="20px">
       <mj-column>
         <mj-divider />
       </mj-column>
     </mj-section>
 
-    <mj-section>
+    <mj-section padding-left="20px" padding-right="20px">
       <mj-column width="250px">
         <mj-image src="images/chicken.jpg" alt="Chicken Tagine Photo" />
         <mj-text
@@ -239,13 +239,13 @@
       </mj-column>
     </mj-section>
 
-    <mj-section>
+    <mj-section padding-left="20px" padding-right="20px">
       <mj-column>
         <mj-divider />
       </mj-column>
     </mj-section>
 
-    <mj-section>
+    <mj-section padding-left="20px" padding-right="20px">
       <mj-column width="250px">
         <mj-image src="images/mushroom.jpg" alt="Mushroom Stroganoff Photo" />
         <mj-text
@@ -281,13 +281,13 @@
       </mj-column>
     </mj-section>
 
-    <mj-section>
+    <mj-section padding-left="20px" padding-right="20px">
       <mj-column>
         <mj-divider />
       </mj-column>
     </mj-section>
 
-    <mj-section>
+    <mj-section padding-left="20px" padding-right="20px">
       <mj-column width="250px">
         <mj-image src="images/marryme.jpg" alt="Marry Me Chicken Photo" />
         <mj-text
@@ -322,13 +322,13 @@
       </mj-column>
     </mj-section>
 
-    <mj-section>
+    <mj-section padding-left="20px" padding-right="20px">
       <mj-column>
         <mj-divider />
       </mj-column>
     </mj-section>
 
-    <mj-section>
+    <mj-section padding-left="20px" padding-right="20px">
       <mj-column width="250px">
         <mj-image src="images/choc.jpg" alt="Chocolate Mousse Photo" />
         <mj-text
@@ -363,14 +363,14 @@
       </mj-column>
     </mj-section>
 
-    <mj-section>
+    <mj-section padding-left="20px" padding-right="20px">
       <mj-column>
         <mj-divider />
       </mj-column>
     </mj-section>
 
     <!-- Sign up section -->
-    <mj-section>
+    <mj-section padding-left="20px" padding-right="20px">
       <mj-column width="100px" padding-right="20px">
         <mj-image
           src="images/fivelogo.jpg"
@@ -412,14 +412,18 @@
       </mj-column>
     </mj-section>
 
-    <mj-section>
+    <mj-section padding-left="20px" padding-right="20px">
       <mj-column>
         <mj-divider />
       </mj-column>
     </mj-section>
 
     <!-- Footer -->
-    <mj-section background-color="#000000">
+    <mj-section
+      background-color="#000000"
+      padding-left="20px"
+      padding-right="20px"
+    >
       <mj-column padding-top="40px">
         <mj-text
           color="#ffffff"
@@ -489,7 +493,11 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#000000">
+    <mj-section
+      background-color="#000000"
+      padding-left="20px"
+      padding-right="20px"
+    >
       <mj-column>
         <mj-social mode="horizontal" align="center" icon-size="30px">
           <mj-social-element
